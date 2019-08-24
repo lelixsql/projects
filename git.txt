@@ -8,3 +8,5 @@ git clone https://github.com/lelixsql/projects.git
 git remote
 git status
 
+git add *
+git commit -m "1"
