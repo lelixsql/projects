@@ -1,0 +1,10 @@
+https://www.computerhope.com/issues/ch001927.htm
+
+git config --global user.name lelixsql
+git config --global user.email lelixsql@gmail.com
+
+https://github.com/lelixsql/projects.git
+git clone https://github.com/lelixsql/projects.git
+git remote
+git status
+
