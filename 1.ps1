@@ -3,7 +3,7 @@ Enable-PSRemoting -Force ‑SkipNetworkProfileCheck
 Set-Item WSMan:\localhost\Client\TrustedHosts -Value "10.0.2.33" -Force
 Set-Item wsman:\localhost\client\trustedhosts *
 Restart-Service WinRM
-
+ 
 #on driver
 #winrm quickconfig
 #or
